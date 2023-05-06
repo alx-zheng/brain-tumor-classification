@@ -1,0 +1,9 @@
+name: tumor-classification
+dependencies:
+  - numpy
+  - tensorflow
+  - keras
+  - cv2
+  - scikit-image
+  - matplotlib
+  - seaborn
